@@ -53,4 +53,4 @@ First release.
 
 ## License
 
-This plugin is licensed under the GPLv2 or later.
+This plugin is licensed under the GPLv2.
