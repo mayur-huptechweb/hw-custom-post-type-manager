@@ -271,3 +271,4 @@ add_action('admin_init', 'cptm_handle_form_submission');
 register_activation_hook(__FILE__, 'cptm_flush_rewrite_rules');
 register_deactivation_hook(__FILE__, 'cptm_flush_rewrite_rules');
 // End of file
+// End of plugin file
